@@ -1,6 +1,6 @@
 {
   "name": "aito",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "minimalist web framework",
   "main": "src/aito.js",
   "repository": {
