@@ -1,0 +1,15 @@
+{
+  "name": "aito",
+  "version": "1.0.1",
+  "description": "minimalist web framework",
+  "main": "src/aito.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jet2tlf/aito.git"
+  },
+  "author": "_mm_shuffle_epi32 <jet2tlf@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "merge-descriptors": "^2.0.0"
+  }
+}
